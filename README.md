@@ -1,2 +1,2 @@
-# Crypt-Track
+# Crypto-Chart
 crypto currency tracker
